@@ -16,4 +16,4 @@
 
 ### Reach Me
 
-- blog: [mm1ord's blog](https://mm1ord.github.io) ( both tech & life ）
+- blog: [mm1ord's blog](https://mm1ord.github.io) (tech & life）
