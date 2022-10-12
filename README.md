@@ -11,6 +11,9 @@
 
 ### Tech Stack
 
-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++)
-  ![Verilog](https://img.shields.io/badge/-Verilog-333333?style=flat&logo=verilog)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,vue,cpp)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,git,github,md)](https://skillicons.dev)
+
+### Reach Me
+
+- blog: [mm1ord's blog](https://mm1ord.github.io) ( both tech & life ）
