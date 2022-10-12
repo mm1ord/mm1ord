@@ -11,7 +11,7 @@
 
 ### Tech Stack
 
-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,cpp)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,cpp,py)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=git,github,md)](https://skillicons.dev)
 
 ### Reach Me
